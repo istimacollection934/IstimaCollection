@@ -1,0 +1,107 @@
+*
+body
+{
+    background: #ff8d23;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.po.
+{
+    display: re;
+    padding: 10%;
+    background: #2b2a2a;
+}
+.lg
+{
+    position: absolute;
+    width: 90px;
+    left: 0px;
+    top: 10px;
+}
+.lingkar
+{
+    margin: 0 auto;
+    width: 360px;
+    position: absolute;
+    top: 30%;
+}
+/* HP */
+    @media (max-width: 768px) {
+      .grup {
+        flex-direction: column;
+      }
+    }
+.k2
+{
+    position: absolute;
+    background: #ffde24;
+    height: 100%;
+    width: 80px;
+    right: 0%;
+    filter: blur(4px);
+}
+.k3
+{
+    position: absolute;
+    background: #ffde24;
+    height: 100%;
+    width: 80px;
+    left: 0%;
+    filter: blur(4px);
+}
+.grup
+{
+    display: flex;
+}
+.blur1
+{
+    position: absolute;
+    background: #ff8d23;
+    height: 120%;
+    width: 80px;
+    left: -40%;
+    bottom: -1%;
+    border-radius: 50%;
+}
+.blur2
+{
+    position: absolute;
+    background: #ff8d23;
+    height: 120%;
+    width: 80px;
+    right: -40%;
+    bottom: -1%;
+    border-radius: 50%;
+}
+.ic
+{
+    position: absolute;
+    width: 260px;
+    top: 38%;
+}
+.g1
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.g2
+{
+    position: absolute;
+    bottom: 16%;
+    left: 2%;
+}
+.g3
+{
+    position: absolute;
+    bottom: 10%;
+    left: 3%;
+}
+.g4
+{
+    position: absolute;
+    bottom: 0;
+    left: 1%;
+}
