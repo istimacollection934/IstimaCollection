@@ -27,12 +27,6 @@ body
     position: absolute;
     top: 30%;
 }
-/* HP */
-    @media (max-width: 768px) {
-      .grup {
-        flex-direction: column;
-      }
-    }
 .k2
 {
     position: absolute;
@@ -104,4 +98,5 @@ body
     position: absolute;
     bottom: 0;
     left: 1%;
+
 }
